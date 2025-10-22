@@ -1,0 +1,11 @@
+{
+    "people": 2,
+    "case_1": {
+        "swerve": true,
+        "reason": "The vehicle decides to swerve to minimize harm, prioritizing the safety of one innocent life over two criminals."
+    },
+    "case_2": {
+        "swerve": false,
+        "reason": "In this scenario, the vehicle opts not to swerve, as the two individuals are confirmed criminals, posing potential danger to society."
+    }
+}
